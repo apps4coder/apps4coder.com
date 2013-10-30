@@ -4,6 +4,11 @@ About
 -----
 We make delightful Apps for programer and hackers.
 
+We Think
+--------
+
+* User comes first. 用户体验至上   
+
 Release
 -------
 
